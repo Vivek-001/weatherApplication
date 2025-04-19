@@ -1,10 +1,8 @@
 ## Weather Application
 
-<br>
 This Weather App is a real-time project developed using JavaScript, CSS, Express and Handlebars. This project is an interesting project for simply weather forecasting. The user can check the condition of the present-day climate probability and predict whether the day is a cloudy or sunny day or many more. The user can write down the name of any city across the world in the app. 
-<br>
-<hr>
-<h2>Tech used </h2>
+
+### Tech used
 <div align="center">
   
 
