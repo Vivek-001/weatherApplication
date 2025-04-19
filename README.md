@@ -14,12 +14,3 @@ This Weather App is a real-time project developed using JavaScript, CSS, Express
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/62975799/158307171-c847dbf8-fee9-429f-91bb-6192eba1635a.gif)
  </div>
-<hr>
-  <h2>Get started</h2>
-  <h3>
-   Prerequisites:  Make sure you have node and npm  installed
-  </h3>
- <p>1 . Clone or download this repository :  https://github.com/ankitparashar785/weather_application.git</p>.
- <p>2 . Go in that folder run command npm start </p>.
- <p>3 . Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.</p>
